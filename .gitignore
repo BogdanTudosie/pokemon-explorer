@@ -7,3 +7,6 @@ Makefile
 *.obj
 *.so
 *.o.d
+.DS_Store
+.vscode/
+pokemon_explorer
